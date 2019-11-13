@@ -1,0 +1,7 @@
+INFO:root:URL: https://jobs.github.com/positions.json?description=c%23&page=2
+INFO:root:URL: https://jobs.github.com/positions.json?description=c%23&page=1
+INFO:root:URL: https://jobs.github.com/positions.json?description=python&page=2
+INFO:root:URL: https://jobs.github.com/positions.json?description=java&page=1
+INFO:root:URL: https://jobs.github.com/positions.json?description=python&page=1
+INFO:root:URL: https://jobs.github.com/positions.json?description=java&page=2
+INFO:root:Время выполнения: 5.790531396865845
